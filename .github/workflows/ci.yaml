@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - "**"
+
 env:
   CONTAINER_REPOSITORY: quay.io/nastjav
   CONTAINER_IMAGE: alm-workshop
